@@ -77,12 +77,11 @@ h6 {
     text-transform: uppercase;
     font-size: 0.8rem;
     padding: 5px 10px;
-    border-radius: 20px;
-    color: #205a6d;
-    background-color: #cff5f9;
-    border: 1px solid #90d1e7;
+    border-radius: 0px;
+    color: #D22C20;
+    background-color: #fff;
+    border: 1px solid #D22C20;    
 }
-
 .post-card .post-info .author-info {
     display: flex;
     justify-content: space-between;
